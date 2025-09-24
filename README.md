@@ -4,7 +4,7 @@
 **Internship Track**: Cyber Security  
 **Submitted By**: Ibe Kingsley 
 **Location**: Lagos State, Nigeria  
-**Submission Date**: 24 September 2025  
+**Submission Date**: September 2025  
 
 ## Summary
 
